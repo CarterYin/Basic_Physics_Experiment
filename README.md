@@ -1,6 +1,6 @@
 # Basic_Physics_Experiment
 
-### I received a template from a classmate, and this is a version of my tex_to-pdf  
+### I received a template from a classmate, and this is a version of my tex to pdf  
 
 ### My classmate : DimStar YiDingg 
 
